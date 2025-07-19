@@ -9,6 +9,16 @@
 
 ---
 
+## Структура проекта
+
+1. Catboost_model.ipynb - Базовый CatBoost
+2. Catboost_multi_regression.cbm - веса CatBoost
+3. lstm_model.ipynb - LSTM для парных временных признаков
+4. multihead_model.ipynb - Fully Connected Multi-Head Neural Network
+5. best_model_multihead.pth - веса Fully Connected Multi-Head Neural Network
+
+---
+
 ## Дополнительная предобработка данных
 
 ### 0. Получение дополнительных переменных
